@@ -1,0 +1,7 @@
+D:\Coding\MyCode\CA_FindLongestLenInConsecutiveArray\CL_ConsecutiveArray\bin\Debug\nunit.framework.dll
+D:\Coding\MyCode\CA_FindLongestLenInConsecutiveArray\CL_ConsecutiveArray\bin\Debug\nunit.framework.xml
+D:\Coding\MyCode\CA_FindLongestLenInConsecutiveArray\CL_ConsecutiveArray\bin\Debug\ConsecutiveArray.dll
+D:\Coding\MyCode\CA_FindLongestLenInConsecutiveArray\CL_ConsecutiveArray\bin\Debug\ConsecutiveArray.pdb
+D:\Coding\MyCode\CA_FindLongestLenInConsecutiveArray\CL_ConsecutiveArray\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Coding\MyCode\CA_FindLongestLenInConsecutiveArray\CL_ConsecutiveArray\obj\Debug\ConsecutiveArray.dll
+D:\Coding\MyCode\CA_FindLongestLenInConsecutiveArray\CL_ConsecutiveArray\obj\Debug\ConsecutiveArray.pdb
